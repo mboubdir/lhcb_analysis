@@ -16,3 +16,10 @@
 *.rar
 *.tar
 *.zip
+
+#Emacs
+*.cpp~
+*.h~
+*.py~
+*.ipynb~
+*.*~
