@@ -1,7 +1,6 @@
 #Data
 *.root
 *.csv
-*.xlm
 
 #Output
 *.pdf
@@ -18,8 +17,5 @@
 *.zip
 
 #Emacs
-*.cpp~
-*.h~
-*.py~
-*.ipynb~
 *.*~
+
